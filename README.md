@@ -18,7 +18,7 @@
 Desarrollador chileno con base en **Santiago, Chile**, activo en GitHub desde 2018. Me especializo en construir herramientas prácticas con **Python y Flask**, con foco en el ecosistema tributario chileno (SII, DTE, RUT). En los últimos años he expandido mi interés hacia la **inteligencia artificial, LLMs y agentes autónomos**.
 
 - 🏗️ Construyo herramientas tributarias y fiscales para el mercado chileno
-- 🤖 Explorando IA generativa, agentes autónomos y el ecosistema Claude
+- 🤖 Explorando IA generativa, LLMs y agentes autónomos
 - 🌐 Comparto tutoriales técnicos en mi [blog personal](https://israelubeda.github.io/)
 - 📍 Santiago, Chile
 
@@ -90,6 +90,6 @@ Librería Python para cambiar el color del texto en consola, con la API en **esp
 
 [![Website](https://img.shields.io/badge/Blog-israelubeda.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://israelubeda.github.io/)
 [![Email](https://img.shields.io/badge/Email-israel.ubedabravo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israel.ubedabravo@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@israel__ubeda-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/israel_ubeda)
+[![X](https://img.shields.io/badge/X-@israel__ubeda-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/israel_ubeda)
 
 </div>
